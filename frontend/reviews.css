@@ -1,0 +1,119 @@
+/* General Styles */
+body {
+  font-family: 'Roboto', sans-serif;
+  background: linear-gradient(to right, #f4e1e4, #fcb7b1);
+  margin: 0;
+  padding: 20px;
+  min-height: 100vh;
+}
+
+/* Container and Card Layout */
+.container {
+  max-width: 800px;
+}
+
+.card {
+  border-radius: 12px;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.15);
+  background-color: #fff;
+}
+
+/* Header */
+h2.text-center {
+  color: #972222;
+  font-weight: bold;
+}
+
+/* Review Form */
+#reviewForm .form-label {
+  font-weight: 500;
+  color: #333;
+}
+
+#reviewForm .form-control {
+  border-radius: 8px;
+  box-shadow: none;
+  border: 1px solid #ccc;
+}
+
+#reviewForm .btn-primary {
+  background-color: #972222;
+  border: none;
+  border-radius: 8px;
+  padding: 10px 20px;
+  font-size: 16px;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+#reviewForm .btn-primary:hover {
+  background-color: #a32c2c;
+  transform: scale(1.05);
+}
+
+#reviewForm .btn-primary:focus,
+#reviewForm .btn-primary:active,
+#reviewForm .btn-primary:focus:active {
+  background-color: #972222 !important;
+  border-color: #972222 !important;
+  box-shadow: none !important;
+  outline: none !important;
+}
+
+/* Review Cards */
+#reviewsList .card-title {
+  font-size: 22px;
+  color: #1d0202;
+}
+
+#reviewsList .card-subtitle {
+  font-size: 14px;
+  color: #555;
+}
+
+#reviewsList .card-text {
+  font-size: 16px;
+  color: #333;
+}
+
+/* Back Button */
+a.btn-secondary {
+  background-color: #6c757d;
+  border-radius: 8px;
+  padding: 10px 20px;
+  font-size: 15px;
+  transition: transform 0.3s ease;
+}
+
+a.btn-secondary:hover {
+  transform: scale(1.05);
+}
+
+/* Back Button */
+a.btn-secondary {
+  background-color: #d87b7b;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 10px 20px;
+  font-size: 15px;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+  text-decoration: none;
+}
+
+a.btn-secondary:hover {
+  background-color: #b65c5c;
+  transform: scale(1.05);
+  color: #fff;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .container {
+    padding: 10px;
+  }
+
+  #reviewForm,
+  #reviewsList .card {
+    padding: 15px;
+  }
+}

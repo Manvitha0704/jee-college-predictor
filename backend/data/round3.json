@@ -1,0 +1,212 @@
+[
+    {
+        "institute": "Indian Institute of Information Technology, Kottayam",
+        "branch": "Computer Science and Engineering",
+        "category": "OPEN",
+        "gender": "Gender-Neutral",
+        "closing_rank": "7650"
+    },
+    {
+        "institute": "Indian Institute of Information Technology, Lucknow",
+        "branch": "Computer Science and Artificial Intelligence",
+        "category": "OPEN",
+        "gender": "Female-Only",
+        "closing_rank": "5580"
+    },
+    {
+        "institute": "Indian Institute of Information Technology, Pune",
+        "branch": "Computer Science and Engineering",
+        "category": "EWS",
+        "gender": "Gender-Neutral",
+        "closing_rank": "6400"
+    },
+    {
+        "institute": "Indian Institute of Information Technology, Manipur",
+        "branch": "Electronics and Communication Engineering",
+        "category": "OBC-NCL",
+        "gender": "Gender-Neutral",
+        "closing_rank": "11050"
+    },
+    {
+        "institute": "Indian Institute of Information Technology, Ranchi",
+        "branch": "Computer Science and Engineering",
+        "category": "ST",
+        "gender": "Female-Only",
+        "closing_rank": "11050"
+    },
+    {
+        "institute": "Indian Institute of Information Technology, Una",
+        "branch": "Information Technology",
+        "category": "OPEN",
+        "gender": "Female-Only",
+        "closing_rank": "9000"
+    },
+    {
+        "institute": "Indian Institute of Information Technology, Agartala",
+        "branch": "Computer Science and Engineering",
+        "category": "EWS",
+        "gender": "Gender-Neutral",
+        "closing_rank": "9950"
+    },
+    {
+        "institute": "Indian Institute of Information Technology, Sri City",
+        "branch": "Electronics and Communication Engineering",
+        "category": "SC",
+        "gender": "Gender-Neutral",
+        "closing_rank": "8700"
+    },
+    {
+        "institute": "Indian Institute of Information Technology, Bhagalpur",
+        "branch": "Electronics and Communication Engineering",
+        "category": "SC",
+        "gender": "Female-Only",
+        "closing_rank": "9500"
+    },
+    {
+        "institute": "Indian Institute of Information Technology, Nagpur",
+        "branch": "Computer Science and Engineering",
+        "category": "ST",
+        "gender": "Gender-Neutral",
+        "closing_rank": "12100"
+    },
+    {
+        "institute": "Indian Institute of Information Technology, Guwahati",
+        "branch": "Computer Science and Engineering",
+        "category": "OPEN",
+        "gender": "Gender-Neutral",
+        "closing_rank": "6980"
+    },
+    {
+        "institute": "Indian Institute of Information Technology, Guwahati",
+        "branch": "Computer Science and Engineering",
+        "category": "OBC-NCL",
+        "gender": "Female-Only",
+        "closing_rank": "7200"
+    },
+    {
+        "institute": "Indian Institute of Information Technology, Vadodara",
+        "branch": "Information Technology",
+        "category": "EWS",
+        "gender": "Gender-Neutral",
+        "closing_rank": "6700"
+    },
+    {
+        "institute": "Indian Institute of Information Technology, Vadodara",
+        "branch": "Information Technology",
+        "category": "OPEN",
+        "gender": "Female-Only",
+        "closing_rank": "7100"
+    },
+    {
+        "institute": "Indian Institute of Information Technology, Bhagalpur",
+        "branch": "Computer Science and Engineering",
+        "category": "SC",
+        "gender": "Gender-Neutral",
+        "closing_rank": "10000"
+    },
+    {
+        "institute": "Indian Institute of Information Technology, Kalyani",
+        "branch": "Electronics and Communication Engineering",
+        "category": "OPEN",
+        "gender": "Gender-Neutral",
+        "closing_rank": "7400"
+    },
+    {
+        "institute": "Indian Institute of Information Technology, Kalyani",
+        "branch": "Electronics and Communication Engineering",
+        "category": "EWS",
+        "gender": "Female-Only",
+        "closing_rank": "7650"
+    },
+    {
+        "institute": "Indian Institute of Information Technology, Bhopal",
+        "branch": "Computer Science and Engineering",
+        "category": "ST",
+        "gender": "Female-Only",
+        "closing_rank": "12700"
+    },
+    {
+        "institute": "Indian Institute of Information Technology, Bhopal",
+        "branch": "Computer Science and Engineering",
+        "category": "ST",
+        "gender": "Gender-Neutral",
+        "closing_rank": "12400"
+    },
+    {
+        "institute": "Indian Institute of Information Technology, Nagpur",
+        "branch": "Electronics and Communication Engineering",
+        "category": "OBC-NCL",
+        "gender": "Gender-Neutral",
+        "closing_rank": "7900"
+    },
+    {
+        "institute": "Indian Institute of Information Technology, Design and Manufacturing, Kurnool",
+        "branch": "Computer Science and Engineering",
+        "category": "OPEN",
+        "gender": "Gender-Neutral",
+        "closing_rank": "8500"
+    },
+    {
+        "institute": "Indian Institute of Information Technology, Design and Manufacturing, Kurnool",
+        "branch": "Computer Science and Engineering",
+        "category": "OPEN",
+        "gender": "Female-Only",
+        "closing_rank": "8950"
+    },
+    {
+        "institute": "Indian Institute of Information Technology, Tiruchirappalli",
+        "branch": "Computer Science and Engineering",
+        "category": "OBC-NCL",
+        "gender": "Gender-Neutral",
+        "closing_rank": "7150"
+    },
+    {
+        "institute": "Indian Institute of Information Technology, Tiruchirappalli",
+        "branch": "Computer Science and Engineering",
+        "category": "OBC-NCL",
+        "gender": "Female-Only",
+        "closing_rank": "7500"
+    },
+    {
+        "institute": "Indian Institute of Information Technology, Dharwad",
+        "branch": "Electronics and Communication Engineering",
+        "category": "SC",
+        "gender": "Gender-Neutral",
+        "closing_rank": "9250"
+    },
+    {
+        "institute": "Indian Institute of Information Technology, Dharwad",
+        "branch": "Electronics and Communication Engineering",
+        "category": "SC",
+        "gender": "Female-Only",
+        "closing_rank": "9600"
+    },
+    {
+        "institute": "Indian Institute of Information Technology, Kalyani",
+        "branch": "Computer Science and Engineering",
+        "category": "EWS",
+        "gender": "Gender-Neutral",
+        "closing_rank": "6850"
+    },
+    {
+        "institute": "Indian Institute of Information Technology, Pune",
+        "branch": "Electronics and Communication Engineering",
+        "category": "ST",
+        "gender": "Gender-Neutral",
+        "closing_rank": "12800"
+    },
+    {
+        "institute": "Indian Institute of Information Technology, Pune",
+        "branch": "Electronics and Communication Engineering",
+        "category": "ST",
+        "gender": "Female-Only",
+        "closing_rank": "13200"
+    },
+    {
+        "institute": "Indian Institute of Information Technology, Surat",
+        "branch": "Computer Science and Engineering",
+        "category": "OPEN",
+        "gender": "Gender-Neutral",
+        "closing_rank": "6950"
+    }
+]

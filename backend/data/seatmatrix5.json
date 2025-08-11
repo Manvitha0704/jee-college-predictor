@@ -1,0 +1,152 @@
+[
+  {
+    "institute": "Indian Institute of Information Technology, Allahabad",
+    "branch": "Information Technology",
+    "general": 1,
+    "obc": 6,
+    "sc": 20,
+    "st": 7,
+    "ews": 17,
+    "round": 5
+  },
+  {
+    "institute": "Indian Institute of Information Technology, Kalyani",
+    "branch": "Computer Science and Engineering",
+    "general": 20,
+    "obc": 7,
+    "sc": 17,
+    "st": 14,
+    "ews": 1,
+    "round": 5
+  },
+  {
+    "institute": "Indian Institute of Information Technology, Nagpur",
+    "branch": "Electronics and Communication Engineering",
+    "general": 12,
+    "obc": 20,
+    "sc": 12,
+    "st": 1,
+    "ews": 19,
+    "round": 5
+  },
+  {
+    "institute": "Indian Institute of Information Technology, Lucknow",
+    "branch": "Computer Science and Engineering",
+    "general": 20,
+    "obc": 8,
+    "sc": 6,
+    "st": 17,
+    "ews": 1,
+    "round": 5
+  },
+  {
+    "institute": "Indian Institute of Information Technology, Sri City",
+    "branch": "Computer Science and Engineering",
+    "general": 2,
+    "obc": 17,
+    "sc": 14,
+    "st": 20,
+    "ews": 1,
+    "round": 5
+  },
+  {
+    "institute": "Indian Institute of Information Technology, Guwahati",
+    "branch": "Electronics and Communication Engineering",
+    "general": 3,
+    "obc": 12,
+    "sc": 6,
+    "st": 16,
+    "ews": 20,
+    "round": 5
+  },
+  {
+    "institute": "Indian Institute of Information Technology, Una",
+    "branch": "Computer Science and Engineering",
+    "general": 17,
+    "obc": 2,
+    "sc": 20,
+    "st": 7,
+    "ews": 1,
+    "round": 5
+  },
+  {
+    "institute": "Indian Institute of Information Technology, Manipur",
+    "branch": "Electronics and Communication Engineering",
+    "general": 1,
+    "obc": 20,
+    "sc": 12,
+    "st": 6,
+    "ews": 11,
+    "round": 5
+  },
+  {
+    "institute": "Indian Institute of Information Technology, Dharwad",
+    "branch": "Computer Science and Engineering",
+    "general": 1,
+    "obc": 7,
+    "sc": 19,
+    "st": 3,
+    "ews": 5,
+    "round": 5
+  },
+  {
+    "institute": "Indian Institute of Information Technology, Kottayam",
+    "branch": "Computer Science and Engineering",
+    "general": 12,
+    "obc": 1,
+    "sc": 16,
+    "st": 18,
+    "ews": 20,
+    "round": 5
+  },
+  {
+    "institute": "Indian Institute of Information Technology, Bhopal",
+    "branch": "Computer Science and Engineering",
+    "general": 5,
+    "obc": 1,
+    "sc": 11,
+    "st": 20,
+    "ews": 5,
+    "round": 5
+  },
+  {
+    "institute": "Indian Institute of Information Technology, Pune",
+    "branch": "Electronics and Communication Engineering",
+    "general": 18,
+    "obc": 7,
+    "sc": 1,
+    "st": 20,
+    "ews": 1,
+    "round": 5
+  },
+  {
+    "institute": "Indian Institute of Information Technology, Kurnool",
+    "branch": "Computer Science and Engineering",
+    "general": 20,
+    "obc": 8,
+    "sc": 12,
+    "st": 1,
+    "ews": 19,
+    "round": 5
+  },
+  {
+    "institute": "Indian Institute of Information Technology, Bhagalpur",
+    "branch": "Electronics and Communication Engineering",
+    "general": 2,
+    "obc": 17,
+    "sc": 20,
+    "st": 13,
+    "ews": 1,
+    "round": 5
+  },
+  {
+    "institute": "Indian Institute of Information Technology, Vadodara",
+    "branch": "Information Technology",
+    "general": 12,
+    "obc": 17,
+    "sc": 1,
+    "st": 20,
+    "ews": 15,
+    "round": 5
+  }
+]

@@ -1,0 +1,151 @@
+/* General Styles */
+body {
+    font-family: 'Roboto', sans-serif;
+    background: linear-gradient(to right, #f4e1e4, #fcb7b1);
+    margin: 0;
+    padding: 20px;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.container-fluid {
+    width: 100%;
+    max-width: 1400px;
+}
+
+/* Layout */
+.main-content {
+    display: flex;
+    gap: 40px;
+    margin-top: 30px;
+}
+
+/* Left + Middle Section */
+.left-middle-section {
+    flex: 3;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+
+/* Card Styles */
+.card-custom {
+    background-color: #fff;
+    border-radius: 12px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.15);
+    padding: 30px;
+    flex: 1 1 calc(45% - 20px);
+    min-width: 280px;
+    text-align: center;
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.card-custom:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 12px 24px rgba(0,0,0,0.2);
+}
+
+.card-custom h3 {
+    color: #1d0202;
+    margin-bottom: 15px;
+    font-size: 28px;
+}
+
+.card-custom p {
+    color: #333;
+    font-size: 18px;
+}
+
+/* Button Styling */
+.btn-primary {
+    background-color: #972222;
+    border: none;
+    border-radius: 8px;
+    padding: 10px 20px;
+    font-size: 16px;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.btn-primary:hover {
+    background-color: #a32c2c;
+    transform: scale(1.05);
+}
+
+/* Right Section */
+.right-section {
+    flex: 1;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.15);
+    height: 80vh;
+    overflow: hidden;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Live Updates Title */
+.live-updates-title {
+    font-size: 24px;
+    font-weight: bold;
+    color: #972222;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+/* Live Updates List */
+.live-updates-list {
+    flex: 1;
+    overflow: hidden;
+    position: relative;
+}
+
+/* Inner Scrolling Container */
+.live-updates-inner {
+    display: flex;
+    flex-direction: column;
+    animation: scrollUp 20s linear infinite;
+}
+
+/* Pause scrolling when hovered */
+.live-updates-list:hover .live-updates-inner {
+    animation-play-state: paused;
+}
+
+/* Each Update */
+.live-update {
+    background: #f8d7da;
+    color: #721c24;
+    padding: 12px;
+    margin-bottom: 15px;
+    border-left: 5px solid #972222;
+    border-radius: 8px;
+    text-align: center;
+    flex-shrink: 0;
+}
+.btn.btn-primary:focus,
+.btn.btn-primary:active,
+.btn.btn-primary:focus:active {
+    background-color: #972222 !important;
+    border-color: #972222 !important;
+    box-shadow: none !important;
+    outline: none !important;
+}
+/* Smooth Continuous Scrolling Keyframes */
+@keyframes scrollUp {
+    0% { transform: translateY(0); }
+    100% { transform: translateY(-50%); }
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .main-content {
+        flex-direction: column;
+    }
+    .left-middle-section {
+        flex-direction: column;
+    }
+}

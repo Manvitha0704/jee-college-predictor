@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Reviews - JEE College Predictor</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
+  <link rel="stylesheet" href="reviews.css" /> <!-- Optional: your custom styles -->
+</head>
+
+<body>
+  <div class="container mt-5">
+    <h2 class="text-center mb-4">Student Reviews</h2>
+
+    <!-- Review Form -->
+    <div class="card p-4 shadow-sm mb-5">
+      <h4 class="mb-3">Write a Review</h4>
+      <form id="reviewForm">
+        <div class="mb-3">
+          <label for="name" class="form-label">Your Name</label>
+          <input type="text" class="form-control" id="name" required />
+        </div>
+        <div class="mb-3">
+          <label for="college" class="form-label">College Name</label>
+          <input type="text" class="form-control" id="college" required />
+        </div>
+        <div class="mb-3">
+          <label for="review" class="form-label">Review</label>
+          <textarea class="form-control" id="review" rows="4" required></textarea>
+        </div>
+        <button type="submit" class="btn btn-primary">Submit Review</button>
+      </form>
+    </div>
+
+    <!-- Review List -->
+    <div id="reviewsList">
+      <!-- Reviews will be inserted here -->
+    </div>
+
+    <!-- Back Button -->
+    <div class="text-center mt-4">
+      <a href="home.html" class="btn btn-secondary">← Back to Home</a>
+    </div>
+  </div>
+
+  <script>
+    // Fetch existing reviews on page load
+    async function loadReviews() {
+      try {
+        const res = await fetch('http://localhost:3000/api/reviews');
+        const reviews = await res.json();
+
+        const container = document.getElementById('reviewsList');
+        container.innerHTML = '';
+
+        if (reviews.length === 0) {
+          container.innerHTML = '<p class="text-center text-muted">No reviews yet.</p>';
+          return;
+        }
+
+        reviews.forEach(r => {
+          const card = document.createElement('div');
+          card.className = 'card mb-3 shadow-sm';
+          card.innerHTML = `
+            <div class="card-body">
+              <h5 class="card-title">${r.college}</h5>
+              <h6 class="card-subtitle text-muted mb-2">By ${r.name} on ${new Date(r.date).toLocaleDateString()}</h6>
+              <p class="card-text">${r.review}</p>
+            </div>
+          `;
+          container.appendChild(card);
+        });
+      } catch (error) {
+        console.error('Error loading reviews:', error);
+      }
+    }
+
+    // Handle form submission
+    document.getElementById('reviewForm').addEventListener('submit', async function (e) {
+      e.preventDefault();
+
+      const name = document.getElementById('name').value.trim();
+      const college = document.getElementById('college').value.trim();
+      const review = document.getElementById('review').value.trim();
+
+      if (!name || !college || !review) return;
+
+      try {
+        const res = await fetch('http://localhost:3000/api/reviews', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ name, college, review })
+        });
+
+        if (res.ok) {
+          document.getElementById('reviewForm').reset();
+          loadReviews(); // Refresh list
+        } else {
+          console.error('Failed to submit review');
+        }
+      } catch (error) {
+        console.error('Error submitting review:', error);
+      }
+    });
+
+    window.onload = loadReviews;
+  </script>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>

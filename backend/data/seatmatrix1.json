@@ -1,0 +1,582 @@
+[
+  {
+    "institute": "Dr. B R Ambedkar National Institute of Technology, Jalandhar",
+    "branch": "Computer Science and Engineering",
+    "general": 2,
+    "obc": 2,
+    "sc": 1,
+    "st": 1,
+    "ews": 1,
+    "round": 1
+  },
+  {
+    "institute": "Dr. B R Ambedkar National Institute of Technology, Jalandhar",
+    "branch": "Data Science and Engineering",
+    "general": 1,
+    "obc": 1,
+    "sc": 1,
+    "st": 1,
+    "ews": 1,
+    "round": 1
+  },
+  {
+    "institute": "Dr. B R Ambedkar National Institute of Technology, Jalandhar",
+    "branch": "Electrical Engineering",
+    "general": 1,
+    "obc": 1,
+    "sc": 14,
+    "st": 12,
+    "ews": 8,
+    "round": 1
+  },
+  {
+    "institute": "Dr. B R Ambedkar National Institute of Technology, Jalandhar",
+    "branch": "Electronics and Communication Engineering",
+    "general": 9,
+    "obc": 15,
+    "sc": 6,
+    "st": 12,
+    "ews": 13,
+    "round": 1
+  },
+  {
+    "institute": "Dr. B R Ambedkar National Institute of Technology, Jalandhar",
+    "branch": "Mechanical Engineering",
+    "general": 7,
+    "obc": 8,
+    "sc": 4,
+    "st": 15,
+    "ews": 9,
+    "round": 1
+  },
+  {
+    "institute": "Malaviya National Institute of Technology, Jaipur",
+    "branch": "Computer Science and Engineering",
+    "general": 3,
+    "obc": 13,
+    "sc": 13,
+    "st": 8,
+    "ews": 15,
+    "round": 1
+  },
+  {
+    "institute": "Malaviya National Institute of Technology, Jaipur",
+    "branch": "Artificial Intelligence and Data Engineering",
+    "general": 9,
+    "obc": 2,
+    "sc": 8,
+    "st": 12,
+    "ews": 9,
+    "round": 1
+  },
+  {
+    "institute": "Malaviya National Institute of Technology, Jaipur",
+    "branch": "Electrical Engineering",
+    "general": 9,
+    "obc": 10,
+    "sc": 3,
+    "st": 7,
+    "ews": 13,
+    "round": 1
+  },
+  {
+    "institute": "Malaviya National Institute of Technology, Jaipur",
+    "branch": "Mechanical Engineering",
+    "general": 5,
+    "obc": 12,
+    "sc": 13,
+    "st": 12,
+    "ews": 15,
+    "round": 1
+  },
+  {
+    "institute": "Malaviya National Institute of Technology, Jaipur",
+    "branch": "Civil Engineering",
+    "general": 9,
+    "obc": 8,
+    "sc": 8,
+    "st": 14,
+    "ews": 4,
+    "round": 1
+  },
+  {
+    "institute": "National Institute of Technology Karnataka, Surathkal",
+    "branch": "Computer Science and Engineering",
+    "general": 3,
+    "obc": 10,
+    "sc": 8,
+    "st": 9,
+    "ews": 6,
+    "round": 1
+  },
+  {
+    "institute": "National Institute of Technology Karnataka, Surathkal",
+    "branch": "Information Technology",
+    "general": 9,
+    "obc": 6,
+    "sc": 13,
+    "st": 9,
+    "ews": 15,
+    "round": 1
+  },
+  {
+    "institute": "National Institute of Technology Karnataka, Surathkal",
+    "branch": "Electronics and Communication Engineering",
+    "general": 6,
+    "obc": 10,
+    "sc": 14,
+    "st": 7,
+    "ews": 12,
+    "round": 1
+  },
+  {
+    "institute": "National Institute of Technology Karnataka, Surathkal",
+    "branch": "Mechanical Engineering",
+    "general": 8,
+    "obc": 7,
+    "sc": 5,
+    "st": 8,
+    "ews": 11,
+    "round": 1
+  },
+  {
+    "institute": "National Institute of Technology Karnataka, Surathkal",
+    "branch": "Electrical and Electronics Engineering",
+    "general": 7,
+    "obc": 6,
+    "sc": 6,
+    "st": 7,
+    "ews": 4,
+    "round": 1
+  },
+  {
+    "institute": "National Institute of Technology, Tiruchirappalli",
+    "branch": "Computer Science and Engineering",
+    "general": 2,
+    "obc": 9,
+    "sc": 8,
+    "st": 8,
+    "ews": 9,
+    "round": 1
+  },
+  {
+    "institute": "National Institute of Technology, Tiruchirappalli",
+    "branch": "Electronics and Communication Engineering",
+    "general": 11,
+    "obc": 4,
+    "sc": 14,
+    "st": 11,
+    "ews": 8,
+    "round": 1
+  },
+  {
+    "institute": "National Institute of Technology, Tiruchirappalli",
+    "branch": "Electrical and Electronics Engineering",
+    "general": 4,
+    "obc": 14,
+    "sc": 11,
+    "st": 14,
+    "ews": 14,
+    "round": 1
+  },
+  {
+    "institute": "National Institute of Technology, Tiruchirappalli",
+    "branch": "Mechanical Engineering",
+    "general": 11,
+    "obc": 12,
+    "sc": 5,
+    "st": 8,
+    "ews": 14,
+    "round": 1
+  },
+  {
+    "institute": "National Institute of Technology, Tiruchirappalli",
+    "branch": "Civil Engineering",
+    "general": 13,
+    "obc": 14,
+    "sc": 11,
+    "st": 8,
+    "ews": 5,
+    "round": 1
+  },
+  {
+    "institute": "National Institute of Technology Rourkela",
+    "branch": "Computer Science and Engineering",
+    "general": 8,
+    "obc": 7,
+    "sc": 12,
+    "st": 10,
+    "ews": 7,
+    "round": 1
+  },
+  {
+    "institute": "National Institute of Technology Rourkela",
+    "branch": "Electrical Engineering",
+    "general": 10,
+    "obc": 12,
+    "sc": 10,
+    "st": 13,
+    "ews": 10,
+    "round": 1
+  },
+  {
+    "institute": "National Institute of Technology Rourkela",
+    "branch": "Mechanical Engineering",
+    "general": 9,
+    "obc": 13,
+    "sc": 10,
+    "st": 15,
+    "ews": 10,
+    "round": 1
+  },
+  {
+    "institute": "National Institute of Technology Rourkela",
+    "branch": "Electronics and Communication Engineering",
+    "general": 13,
+    "obc": 11,
+    "sc": 5,
+    "st": 9,
+    "ews": 14,
+    "round": 1
+  },
+  {
+    "institute": "National Institute of Technology Rourkela",
+    "branch": "Civil Engineering",
+    "general": 9,
+    "obc": 8,
+    "sc": 7,
+    "st": 15,
+    "ews": 7,
+    "round": 1
+  },
+  {
+    "institute": "National Institute of Technology Calicut",
+    "branch": "Computer Science and Engineering",
+    "general": 6,
+    "obc": 8,
+    "sc": 12,
+    "st": 13,
+    "ews": 6,
+    "round": 1
+  },
+  {
+    "institute": "National Institute of Technology Calicut",
+    "branch": "Electronics and Communication Engineering",
+    "general": 13,
+    "obc": 8,
+    "sc": 10,
+    "st": 9,
+    "ews": 13,
+    "round": 1
+  },
+  {
+    "institute": "National Institute of Technology Calicut",
+    "branch": "Electrical and Electronics Engineering",
+    "general": 9,
+    "obc": 8,
+    "sc": 10,
+    "st": 14,
+    "ews": 7,
+    "round": 1
+  },
+  {
+    "institute": "National Institute of Technology Calicut",
+    "branch": "Mechanical Engineering",
+    "general": 14,
+    "obc": 9,
+    "sc": 6,
+    "st": 13,
+    "ews": 15,
+    "round": 1
+  },
+  {
+    "institute": "National Institute of Technology Calicut",
+    "branch": "Civil Engineering",
+    "general": 8,
+    "obc": 14,
+    "sc": 9,
+    "st": 12,
+    "ews": 8,
+    "round": 1
+  },
+  {
+    "institute": "Visvesvaraya National Institute of Technology, Nagpur",
+    "branch": "Computer Science and Engineering",
+    "general": 9,
+    "obc": 12,
+    "sc": 8,
+    "st": 12,
+    "ews": 9,
+    "round": 1
+  },
+  {
+    "institute": "Visvesvaraya National Institute of Technology, Nagpur",
+    "branch": "Electronics and Communication Engineering",
+    "general": 10,
+    "obc": 9,
+    "sc": 8,
+    "st": 13,
+    "ews": 6,
+    "round": 1
+  },
+  {
+    "institute": "Visvesvaraya National Institute of Technology, Nagpur",
+    "branch": "Electrical Engineering",
+    "general": 11,
+    "obc": 12,
+    "sc": 11,
+    "st": 10,
+    "ews": 14,
+    "round": 1
+  },
+  {
+    "institute": "Visvesvaraya National Institute of Technology, Nagpur",
+    "branch": "Mechanical Engineering",
+    "general": 6,
+    "obc": 11,
+    "sc": 7,
+    "st": 12,
+    "ews": 13,
+    "round": 1
+  },
+  {
+    "institute": "Visvesvaraya National Institute of Technology, Nagpur",
+    "branch": "Civil Engineering",
+    "general": 13,
+    "obc": 9,
+    "sc": 10,
+    "st": 8,
+    "ews": 9,
+    "round": 1
+  },
+  {
+    "institute": "Motilal Nehru National Institute of Technology Allahabad",
+    "branch": "Computer Science and Engineering",
+    "general": 9,
+    "obc": 10,
+    "sc": 9,
+    "st": 14,
+    "ews": 10,
+    "round": 1
+  },
+  {
+    "institute": "Motilal Nehru National Institute of Technology Allahabad",
+    "branch": "Information Technology",
+    "general": 13,
+    "obc": 7,
+    "sc": 8,
+    "st": 12,
+    "ews": 7,
+    "round": 1
+  },
+  {
+    "institute": "Motilal Nehru National Institute of Technology Allahabad",
+    "branch": "Electronics and Communication Engineering",
+    "general": 9,
+    "obc": 12,
+    "sc": 7,
+    "st": 6,
+    "ews": 7,
+    "round": 1
+  },
+  {
+    "institute": "Motilal Nehru National Institute of Technology Allahabad",
+    "branch": "Electrical Engineering",
+    "general": 12,
+    "obc": 6,
+    "sc": 5,
+    "st": 13,
+    "ews": 15,
+    "round": 1
+  },
+  {
+    "institute": "Motilal Nehru National Institute of Technology Allahabad",
+    "branch": "Mechanical Engineering",
+    "general": 8,
+    "obc": 9,
+    "sc": 14,
+    "st": 9,
+    "ews": 7,
+    "round": 1
+  },
+  {
+    "institute": "Indian Institute of Information Technology, Guwahati",
+    "branch": "Mechanical Engineering",
+    "general": 3,
+    "obc": 13,
+    "sc": 8,
+    "st": 10,
+    "ews": 12,
+    "round": 1
+  },
+  {
+    "institute": "Indian Institute of Information Technology, Sri City",
+    "branch": "Mechanical Engineering",
+    "general": 6,
+    "obc": 9,
+    "sc": 11,
+    "st": 13,
+    "ews": 10,
+    "round": 1
+  },
+  {
+    "institute": "Indian Institute of Information Technology, Sri City",
+    "branch": "Electronics and Communication Engineering",
+    "general": 3,
+    "obc": 8,
+    "sc": 6,
+    "st": 13,
+    "ews": 12,
+    "round": 1
+  },
+  {
+    "institute": "Indian Institute of Information Technology, Pune",
+    "branch": "Information Technology",
+    "general": 11,
+    "obc": 14,
+    "sc": 12,
+    "st": 13,
+    "ews": 11,
+    "round": 1
+  },
+  {
+    "institute": "Indian Institute of Information Technology, Una",
+    "branch": "Mechanical Engineering",
+    "general": 14,
+    "obc": 13,
+    "sc": 11,
+    "st": 7,
+    "ews": 11,
+    "round": 1
+  },
+  {
+    "institute": "Indian Institute of Information Technology, Guwahati",
+    "branch": "Computer Science and Engineering",
+    "general": 13,
+    "obc": 14,
+    "sc": 8,
+    "st": 13,
+    "ews": 8,
+    "round": 1
+  },
+  {
+    "institute": "National Institute of Technology, Raipur",
+    "branch": "Computer Science and Engineering",
+    "general": 10,
+    "obc": 13,
+    "sc": 7,
+    "st": 13,
+    "ews": 11,
+    "round": 1
+  },
+  {
+    "institute": "National Institute of Technology, Raipur",
+    "branch": "Electronics and Communication Engineering",
+    "general": 9,
+    "obc": 13,
+    "sc": 11,
+    "st": 11,
+    "ews": 13,
+    "round": 1
+  },
+  {
+    "institute": "Indian Institute of Information Technology, Lucknow",
+    "branch": "Computer Science and Engineering",
+    "general": 6,
+    "obc": 8,
+    "sc": 12,
+    "st": 8,
+    "ews": 11,
+    "round": 1
+  },
+  {
+    "institute": "Indian Institute of Information Technology, Dharwad",
+    "branch": "Electronics and Communication Engineering",
+    "general": 8,
+    "obc": 10,
+    "sc": 7,
+    "st": 9,
+    "ews": 9,
+    "round": 1
+  },
+  {
+    "institute": "Indian Institute of Information Technology, Bhagalpur",
+    "branch": "Computer Science and Engineering",
+    "general": 7,
+    "obc": 15,
+    "sc": 15,
+    "st": 7,
+    "ews": 9,
+    "round": 1
+  },
+  {
+    "institute": "Indian Institute of Information Technology, Pune",
+    "branch": "Artificial Intelligence and Data Science",
+    "general": 13,
+    "obc": 7,
+    "sc": 7,
+    "st": 12,
+    "ews": 14,
+    "round": 1
+  },
+  {
+    "institute": "Indian Institute of Information Technology, Una",
+    "branch": "Information Technology",
+    "general": 12,
+    "obc": 12,
+    "sc": 9,
+    "st": 11,
+    "ews": 9,
+    "round": 1
+  },
+  {
+    "institute": "Indian Institute of Information Technology, Kottayam",
+    "branch": "Computer Science and Engineering",
+    "general": 7,
+    "obc": 7,
+    "sc": 11,
+    "st": 6,
+    "ews": 10,
+    "round": 1
+  },
+  {
+    "institute": "Indian Institute of Information Technology, Manipur",
+    "branch": "Electronics and Communication Engineering",
+    "general": 8,
+    "obc": 11,
+    "sc": 7,
+    "st": 8,
+    "ews": 13,
+    "round": 1
+  },
+  {
+    "institute": "Indian Institute of Information Technology, Bhopal",
+    "branch": "Computer Science and Engineering",
+    "general": 7,
+    "obc": 8,
+    "sc": 11,
+    "st": 11,
+    "ews": 8,
+    "round": 1
+  },
+  {
+    "institute": "Indian Institute of Information Technology, Kurnool",
+    "branch": "Electronics and Communication Engineering",
+    "general": 7,
+    "obc": 10,
+    "sc": 7,
+    "st": 8,
+    "ews": 15,
+    "round": 1
+  },
+  {
+    "institute": "Indian Institute of Information Technology, Vadodara",
+    "branch": "Information Technology",
+    "general": 13,
+    "obc": 12,
+    "sc": 15,
+    "st": 12,
+    "ews": 8,
+    "round": 1
+  }
+]

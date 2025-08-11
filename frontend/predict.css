@@ -1,0 +1,83 @@
+/* predict.css */
+
+/* Body background and font */
+body {
+    font-family: 'Roboto', sans-serif;
+    background: linear-gradient(to right, #f4e1e4, #fcb7b1);
+    margin: 0;
+    padding: 20px;
+    min-height: 100vh;
+}
+
+/* Container styles */
+.container {
+    max-width: 800px;
+    background-color: #fff;
+    border-radius: 12px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
+    padding: 40px;
+}
+
+/* Form heading */
+h2 {
+    text-align: center;
+    color: #972222;
+    margin-bottom: 30px;
+}
+
+/* Form styles */
+form {
+    margin-top: 20px;
+}
+
+label {
+    font-weight: bold;
+    color: #333;
+}
+
+/* Button styling */
+button.btn-primary {
+    background-color: #972222;
+    border: none;
+    border-radius: 8px;
+    padding: 10px 20px;
+    font-size: 16px;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+button.btn-primary:hover {
+    background-color: #a32c2c;
+    transform: scale(1.05);
+}
+
+/* Results */
+#results {
+    margin-top: 40px;
+}
+
+#results h4 {
+    color: #972222;
+    margin-bottom: 20px;
+}
+
+#results .card {
+    background: #f8d7da;
+    border-left: 5px solid #972222;
+    border-radius: 8px;
+}
+/* Prevent button from becoming blue on click */
+button.btn-primary:focus,
+button.btn-primary:active,
+button.btn-primary:focus:active {
+    background-color: #972222 !important;
+    border-color: #972222 !important;
+    box-shadow: none !important;
+    outline: none !important;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .container {
+        padding: 20px;
+    }
+}

@@ -1,0 +1,99 @@
+/* Seat Matrix Page Theme */
+
+/* Background and Font */
+body {
+  font-family: 'Roboto', sans-serif;
+  background: linear-gradient(to right, #f4e1e4, #fcb7b1);
+  margin: 0;
+  padding: 20px;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+/* Container */
+.container {
+  width: 100%;
+  max-width: 1200px;
+  background-color: #fff;
+  padding: 40px;
+  border-radius: 12px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
+}
+
+/* Title */
+h2 {
+  color: #1d0202;
+  font-size: 32px;
+  margin-bottom: 30px;
+}
+
+/* Table Header */
+.custom-table-header {
+  background-color: #972222;
+  color: white;
+}
+
+.custom-table-header th {
+  background-color: #972222;
+  color: white;
+  border: none;
+}
+
+/* Table Styling */
+.table {
+  background-color: #fff;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.table th,
+.table td {
+  text-align: center;
+  vertical-align: middle;
+}
+
+/* Inputs and Buttons */
+.form-control,
+.form-check-input {
+  background-color: #fbe7e9;
+  color: #333;
+  border-color: #c96a6a;
+}
+
+.form-control::placeholder {
+  color: #b25d5d;
+}
+
+.btn-secondary {
+  background-color: #972222;
+  border: none;
+  border-radius: 8px;
+  padding: 10px 20px;
+  font-size: 16px;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.btn-secondary:hover {
+  background-color: #a32c2c;
+  transform: scale(1.05);
+}
+
+/* "No Results" Message */
+#noResults {
+  color: #880000;
+  text-align: center;
+  margin-top: 20px;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .container {
+    padding: 20px;
+  }
+
+  h2 {
+    font-size: 24px;
+  }
+}
