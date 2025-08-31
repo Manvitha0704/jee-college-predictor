@@ -21,7 +21,7 @@ Built for speed, accuracy, and a responsive user experience.
 
 ---
 
-## 📸 Screenshots
+## 📸 Outputs
 
 ### Dashboard
 ![Dashboard](./assets/login.png)
